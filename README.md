@@ -51,3 +51,6 @@ To execute the full test suite, run:
 
 * **game.py:** Contains the shared core logic, the `GameGUI` class for the Tkinter interface, and the CLI execution loop.
 * **test_game.py:** Contains the comprehensive suite of tests, including unit tests for main game loops and property-based strategies for input validation.
+   ### About the developer
+  Name: Ahmed Mohamed Abdi
+  Reg.No; 25/BCC/BU/R/0006
